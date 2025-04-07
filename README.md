@@ -16,17 +16,6 @@
 </p>
 
 
-<!--Links Redes Sociais-->
-<div align="left">
-  <a href="https://www.linkedin.com/in/aryane-andrade" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1118875502581657650" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
-    </a>
-</div>
-
-
 ###
 
 ## Habilidades
