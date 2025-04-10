@@ -8,11 +8,17 @@
 
 
 <!--Informações-->
+## 👩‍💻 Sobre mim
 <p>
 
-  
- - Sou estudante de Ciência da Computação.
- - Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end em Java.
+🎓 Estudante de Ciência da Computação | Técnica em Informática pelo IFBA  
+☁️ Foco em **Cloud Computing (AWS)** | Em formação para atuar como **Cloud Engineer**
+
+🚀  Experiência prática com **ECS (Docker)**, **VPC**, **IAM**, **Security Groups**, **ECR**, **CloudShell** e **Linux**  
+🛠️ Conhecimentos em **Java + Spring Boot**, **MySQL**, **PostgreSQL**, **SQL Server**  
+
+
+💡 Aberta a colaborações, contribuições open source e projetos que envolvam infraestrutura como código, automação e soluções AWS.
 </p>
 
 
