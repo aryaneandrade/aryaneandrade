@@ -8,7 +8,7 @@
 
 
 <!--Informações-->
-## 👩‍💻 Sobre mim
+## Sobre mim
 <p>
 
 🎓 Estudante de Ciência da Computação | Técnica em Informática pelo IFBA  
