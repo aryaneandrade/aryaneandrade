@@ -12,7 +12,7 @@
 <p>
 
 🎓 Estudante de Ciência da Computação | Técnica em Informática pelo IFBA  
-☁️ Foco em **Cloud Computing (AWS)** | Em formação para atuar como **Cloud Engineer**
+☁️ Foco em **Cloud Computing (AWS)**
 
 🛠️ Experiência prática com **ECS (Docker)**, **VPC**, **IAM**, **Security Groups**, **ECR**, **CloudShell** e **Linux**  
 
