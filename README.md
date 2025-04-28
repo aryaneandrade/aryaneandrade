@@ -1,10 +1,10 @@
 <!-- Divisor -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=header"/>
 
 <!-- Escrita Interativa -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0077B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FF7F00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Aryane;Bem-vindo(a)+ao+meu+GitHub!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
