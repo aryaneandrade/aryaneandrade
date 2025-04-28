@@ -52,6 +52,9 @@
       <img src="aws-icons/AutoScaling.svg" width="40px"><br>ASG
     </td>
     <td align="center" width="100">
+      <img src="aws-icons/Lambda.svg" width="40px"><br>Lambda
+    </td>
+    <td align="center" width="100">
       <img src="aws-icons/S3.svg" width="40px"><br>S3
     </td>
   </tr>
@@ -70,6 +73,9 @@
     </td>
     <td align="center" width="100">
       <img src="aws-icons/CloudShell.svg" width="40px"><br>CloudShell
+    </td>
+     <td align="center" width="100">
+      <img src="aws-icons/CodePipeline.svg" width="40px"><br>CodePipeline
     </td>
     <td align="center" width="100">
       <img src="aws-icons/SQS.svg" width="40px"><br>SQS
