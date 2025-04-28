@@ -33,6 +33,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=ffffff&labelColor=CC2927)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff&labelColor=2496ED)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff&labelColor=7B42BC)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
 
 ### Principais Serviços AWS que domino
 
