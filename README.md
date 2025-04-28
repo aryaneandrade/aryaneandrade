@@ -22,9 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=ffffff&labelColor=239120)
 
 ### Banco de Dados e Ferramentas 
 
