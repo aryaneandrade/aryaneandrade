@@ -1,11 +1,11 @@
 
 <!-- Divisor -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9da5b4&height=120&section=header"/>
 
 <!-- Escrita Interativa -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Aryane;Bem-vindo(a)+ao+meu+GitHub!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=9da5b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Aryane;Bem-vindo(a)+ao+meu+GitHub!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,23 +25,22 @@
 
 ### Linguagens de Programação
 
-![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=openjdk&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-232323?style=flat&labelColor=6DB33F&logo=spring&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-232323?style=flat&labelColor=A8B9CC&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-232323?style=flat&labelColor=00599C&logo=c%2B%2B&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-CSharp-232323?style=flat&labelColor=512BD4&logo=.net&logoColor=ffffff)
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=ffffff&labelColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff&labelColor=6DB33F)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=ffffff&labelColor=239120)
 
 ### Banco de Dados e Ferramentas 
 
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=2496ED&logo=docker&logoColor=ffffff)
-![Terraform](https://img.shields.io/badge/-Terraform-232323?style=flat&labelColor=7B42BC&logo=terraform&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=ffffff&labelColor=CC2927)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff&labelColor=2496ED)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff&labelColor=7B42BC)
 
 
 ### Serviços AWS
