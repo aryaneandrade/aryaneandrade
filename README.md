@@ -1,3 +1,4 @@
+
 <!-- Divisor -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
 
@@ -24,12 +25,23 @@
 
 ### Linguagens de Programação
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=openjdk&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-232323?style=flat&labelColor=6DB33F&logo=spring&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-232323?style=flat&labelColor=A8B9CC&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-232323?style=flat&labelColor=00599C&logo=c%2B%2B&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-CSharp-232323?style=flat&labelColor=512BD4&logo=.net&logoColor=ffffff)
 
 
-### Banco de Dados e Ferramentas de Desenvolvimento
+### Banco de Dados e Ferramentas 
 
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=2496ED&logo=docker&logoColor=ffffff)
+![Terraform](https://img.shields.io/badge/-Terraform-232323?style=flat&labelColor=7B42BC&logo=terraform&logoColor=ffffff)
 
 
 ### Serviços AWS
@@ -37,48 +49,48 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="aws-icons/IAM.svg" width="40px"><br>IAM
+      <img src="aws-icons/IAM.svg" width="30px"><br><sub>IAM</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/EC2.svg" width="40px"><br>EC2
+      <img src="aws-icons/EC2.svg" width="30px"><br><sub>EC2</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/ECS.svg" width="40px"><br>ECS
+      <img src="aws-icons/ECS.svg" width="30px"><br><sub>ECS</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/ECR.svg" width="40px"><br>ECR
+      <img src="aws-icons/ECR.svg" width="30px"><br><sub>ECR</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/AutoScaling.svg" width="40px"><br>ASG
+      <img src="aws-icons/AutoScaling.svg" width="30px"><br><sub>ASG</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/Lambda.svg" width="40px"><br>Lambda
+      <img src="aws-icons/Lambda.svg" width="30px"><br><sub>Lambda</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/S3.svg" width="40px"><br>S3
+      <img src="aws-icons/S3.svg" width="30px"><br><sub>S3</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="aws-icons/CloudFront.svg" width="40px"><br>CloudFront
+      <img src="aws-icons/CloudFront.svg" width="30px"><br><sub>CloudFront</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/VPC.svg" width="40px"><br>VPC
+      <img src="aws-icons/VPC.svg" width="30px"><br><sub>VPC</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/Route 53.svg" width="40px"><br>Route 53
+      <img src="aws-icons/Route 53.svg" width="30px"><br><sub>Route 53</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/RDS.svg" width="40px"><br>RDS
+      <img src="aws-icons/RDS.svg" width="30px"><br><sub>RDS</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/CloudShell.svg" width="40px"><br>CloudShell
+      <img src="aws-icons/CloudShell.svg" width="30px"><br><sub>CloudShell</sub>
     </td>
      <td align="center" width="100">
-      <img src="aws-icons/CodePipeline.svg" width="40px"><br>CodePipeline
+      <img src="aws-icons/CodePipeline.svg" width="30px"><br><sub>CodePipeline</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/SQS.svg" width="40px"><br>SQS
+      <img src="aws-icons/SQS.svg" width="30px"><br><sub>SQS</sub>
     </td>
   </tr>
 </table>
