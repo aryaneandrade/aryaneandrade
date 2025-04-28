@@ -15,7 +15,7 @@
 
 * ☁️ Foco em Cloud Computing (AWS)  
 
-* 🛠️ Experiência prática com Serviços da AWS. 
+* 🛠️ Experiência prática com serviços da AWS, automação de tarefas utilizando Shell Script, utilização de distribuições Linux (Ubuntu, Debian) e operações via AWS CLI.
 
 * 💡 Aberta a colaborações, contribuições open source e projetos que envolvam infraestrutura como código, automação e soluções AWS.
 
