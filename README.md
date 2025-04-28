@@ -82,3 +82,49 @@
         <figcaption style="display: block; text-align: center;">PyCharm</figcaption>
         </figure>
     </div>
+    
+
+### Serviços AWS
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="aws-icons/IAM.svg" width="50px"><br>IAM
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/EC2.svg" width="50px"><br>EC2
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/ECS.svg" width="50px"><br>ECS
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/ECR.svg" width="50px"><br>ECR
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/AutoScaling.svg" width="50px"><br>ASG
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/S3.svg" width="50px"><br>S3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="aws-icons/CloudFront.svg" width="50px"><br>CloudFront
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/VPC.svg" width="50px"><br>VPC
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/Route 53.svg" width="50px"><br>Route 53
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/RDS.svg" width="50px"><br>RDS
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/CloudShell.svg" width="50px"><br>CloudShell
+    </td>
+    <td align="center" width="100">
+      <img src="aws-icons/SQS.svg" width="50px"><br>SQS
+    </td>
+  </tr>
+</table>
