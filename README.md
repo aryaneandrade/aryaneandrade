@@ -6,12 +6,11 @@
 <h1 align="center">Olá, sou Aryane 👋</h1>
 <p align="center">Bem-vindo(a) ao meu GitHub!</p>
 
-## 🎯 Sobre mim
+## 💫 Sobre mim
 
-* 🎓 Estudante de Ciência da Computação | Técnica em Informática pelo IFBA
-* ☁️ Foco em Cloud Computing (AWS)  
-* 🛠️ Experiência prática com serviços da AWS, automação de tarefas utilizando Shell Script, utilização de distribuições Linux (Ubuntu, Debian) e operações via AWS CLI.
-* 💡 Aberta a colaborações, contribuições open source e projetos que envolvam infraestrutura como código, automação e soluções AWS.
+* Estudante de Ciência da Computação | Técnica em Informática pelo IFBA | Foco em Cloud Computing (AWS)  
+* Experiência prática com serviços da AWS, automação de tarefas utilizando Shell Script, utilização de distribuições Linux e operações via AWS CLI.
+* Aberta a colaborações, contribuições open source e projetos que envolvam infraestrutura como código, automação e soluções AWS.
 
 ## 💻 Competências Técnicas 
 
@@ -33,7 +32,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff&labelColor=7B42BC)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
 
-### Principais Serviços AWS que domino
+### Serviços AWS
 
 <table>
   <tr>
