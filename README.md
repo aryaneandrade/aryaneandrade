@@ -54,9 +54,6 @@
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/Lambda.svg" width="26px"><br><sub>Lambda</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/S3.svg" width="26px"><br><sub>S3</sub>
-    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -72,13 +69,10 @@
       <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/RDS.svg" width="26px"><br><sub>RDS</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/CloudShell.svg" width="26px"><br><sub>CloudShell</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/CodePipeline.svg" width="26px"><br><sub>CodePipeline</sub>
-    </td>
-    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/SQS.svg" width="26px"><br><sub>SQS</sub>
+    </td>
+     <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/S3.svg" width="26px"><br><sub>S3</sub>
     </td>
   </tr>
 </table>
