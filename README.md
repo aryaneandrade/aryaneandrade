@@ -34,45 +34,4 @@
 
 ### Serviços AWS
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="aws-icons/IAM.svg" width="26px"><br><sub>IAM</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/EC2.svg" width="26px"><br><sub>EC2</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/ECS.svg" width="26px"><br><sub>ECS</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/ECR.svg" width="26px"><br><sub>ECR</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/AutoScaling.svg" width="26px"><br><sub>ASG</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/Lambda.svg" width="26px"><br><sub>Lambda</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="aws-icons/CloudFront.svg" width="26px"><br><sub>CloudFront</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/VPC.svg" width="26px"><br><sub>VPC</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/Route%2053.svg" width="26px"><br><sub>Route 53</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/RDS.svg" width="26px"><br><sub>RDS</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="aws-icons/SQS.svg" width="26px"><br><sub>SQS</sub>
-    </td>
-     <td align="center" width="100">
-      <img src="aws-icons/S3.svg" width="26px"><br><sub>S3</sub>
-    </td>
-  </tr>
-</table>
+<img src="aws-icons/servicos-aws.png" >
