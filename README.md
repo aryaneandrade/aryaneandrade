@@ -37,48 +37,48 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="aws-icons/IAM.svg" width="26px"><br><sub>IAM</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/IAM.svg" width="26px"><br><sub>IAM</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/EC2.svg" width="26px"><br><sub>EC2</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/EC2.svg" width="26px"><br><sub>EC2</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/ECS.svg" width="26px"><br><sub>ECS</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/ECS.svg" width="26px"><br><sub>ECS</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/ECR.svg" width="26px"><br><sub>ECR</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/ECR.svg" width="26px"><br><sub>ECR</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/AutoScaling.svg" width="26px"><br><sub>ASG</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/AutoScaling.svg" width="26px"><br><sub>ASG</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/Lambda.svg" width="26px"><br><sub>Lambda</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/Lambda.svg" width="26px"><br><sub>Lambda</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/S3.svg" width="26px"><br><sub>S3</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/S3.svg" width="26px"><br><sub>S3</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="aws-icons/CloudFront.svg" width="26px"><br><sub>CloudFront</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/CloudFront.svg" width="26px"><br><sub>CloudFront</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/VPC.svg" width="26px"><br><sub>VPC</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/VPC.svg" width="26px"><br><sub>VPC</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/Route 53.svg" width="26px"><br><sub>Route 53</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/Route%2053.svg" width="26px"><br><sub>Route 53</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/RDS.svg" width="26px"><br><sub>RDS</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/RDS.svg" width="26px"><br><sub>RDS</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/CloudShell.svg" width="26px"><br><sub>CloudShell</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/CloudShell.svg" width="26px"><br><sub>CloudShell</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/CodePipeline.svg" width="26px"><br><sub>CodePipeline</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/CodePipeline.svg" width="26px"><br><sub>CodePipeline</sub>
     </td>
     <td align="center" width="100">
-      <img src="aws-icons/SQS.svg" width="26px"><br><sub>SQS</sub>
+      <img src="https://raw.githubusercontent.com/aryaneandrade/aryaneandrade/main/aws-icons/SQS.svg" width="26px"><br><sub>SQS</sub>
     </td>
   </tr>
 </table>
