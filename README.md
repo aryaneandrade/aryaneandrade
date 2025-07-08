@@ -45,7 +45,6 @@
 <img src="https://img.shields.io/badge/☁️%20EC2-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20ECS-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20Lambda-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="Lambda" />&nbsp;
-
 <img src="https://img.shields.io/badge/☁️%20ElasticBeanstalk-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ElasticBeanstalk" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=white" alt="S3" />
 
