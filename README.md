@@ -39,13 +39,13 @@
 <img src="https://img.shields.io/badge/☁️%20EventBridge-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="EventBridge" />
 <img src="https://img.shields.io/badge/☁️%20CloudFront-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="CloudFront" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20Route53-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="Route53" />&nbsp;
-<img src="https://img.shields.io/badge/☁️%20RDS-527FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="RDS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20RDS-C925D1.svg?style=flat&logo=amazonaws&logoColor=white" alt="RDS" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20DynamoDB-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="DynamoDB" />&nbsp;
 
 <img src="https://img.shields.io/badge/☁️%20CodePipeline-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="CodePipeline" />&nbsp;
-<img src="https://img.shields.io/badge/☁️%20EC2-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
-<img src="https://img.shields.io/badge/☁️%20ECS-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
-<img src="https://img.shields.io/badge/☁️%20Lambda-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="Lambda" />&nbsp;
-<img src="https://img.shields.io/badge/☁️%20ElasticBeanstalk-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ElasticBeanstalk" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20EC2-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20ECS-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Lambda-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="Lambda" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20ElasticBeanstalk-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="ElasticBeanstalk" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=white" alt="S3" />
 
