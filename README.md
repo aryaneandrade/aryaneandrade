@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/☁️%20Route53-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="Route53" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20RDS-527FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="RDS" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20DynamoDB-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="DynamoDB" />&nbsp;
+
 <img src="https://img.shields.io/badge/☁️%20CodePipeline-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="CodePipeline" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20EC2-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
 <img src="https://img.shields.io/badge/☁️%20ECS-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
