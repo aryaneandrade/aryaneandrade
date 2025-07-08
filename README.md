@@ -32,15 +32,20 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff&labelColor=7B42BC)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
 
+### Serviços AWS
 
-### Serviços AWS 
-  <img src="https://img.shields.io/badge/☁️%20IAM-DD344C.svg?style=flat&logo=amazonaws&logoColor=white" alt="IAM" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20SQS-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="SQS" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20CloudFront-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="CloudFront" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20Route53-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="Route53" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20RDS-C925D1.svg?style=flat&logo=amazonaws&logoColor=white" alt="RDS" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20EC2-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20ECS-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20ASG-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="ASG" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20Lambda-ED7100.svg?style=flat&logo=amazonaws&logoColor=white" alt="Lambda" />&nbsp;
-  <img src="https://img.shields.io/badge/☁️%20S3-7AA116.svg?style=flat&logo=amazonaws&logoColor=white" alt="S3" />
+<img src="https://img.shields.io/badge/☁️%20IAM-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="IAM" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20SQS-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="SQS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20EventBridge-E7157B.svg?style=flat&logo=amazonaws&logoColor=white" alt="EventBridge" />
+<img src="https://img.shields.io/badge/☁️%20CloudFront-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="CloudFront" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Route53-8C4FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="Route53" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20RDS-527FFF.svg?style=flat&logo=amazonaws&logoColor=white" alt="RDS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20DynamoDB-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="DynamoDB" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20CodePipeline-0052CC.svg?style=flat&logo=amazonaws&logoColor=white" alt="CodePipeline" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20EC2-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="EC2" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20ECS-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ECS" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Lambda-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="Lambda" />&nbsp;
+
+<img src="https://img.shields.io/badge/☁️%20ElasticBeanstalk-FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="ElasticBeanstalk" />&nbsp;
+<img src="https://img.shields.io/badge/☁️%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=white" alt="S3" />
+
