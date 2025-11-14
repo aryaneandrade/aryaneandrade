@@ -16,12 +16,16 @@
 
 ### Linguagens de Programação
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=ffffff&labelColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff&labelColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B&labelColor=3776AB)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
+
 
 ### Banco de Dados e Ferramentas 
 
