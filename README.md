@@ -8,7 +8,7 @@
 
 ## 💫 Sobre mim
 
-* Estudante de Ciência da Computação | Técnica em Informática pelo IFBA | Foco em DevOps e desenvolvimento de soluções completas.
+* Estudante de Ciência da Computação | Técnica em Informática pelo IFBA | Foco em DevOps
 * Experiência prática com serviços AWS, automação de tarefas via Shell Script, operações em distribuições Linux, AWS CLI e utilização de ferramentas de desenvolvimento e integração contínua.
 * Interessada em colaborações, contribuições open source e projetos que envolvam infraestrutura como código, automação, DevOps e soluções escaláveis na AWS.
 
