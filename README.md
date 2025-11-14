@@ -26,15 +26,19 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
 
-
-### Banco de Dados e Ferramentas 
+### Banco de Dados 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff&labelColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=ffffff&labelColor=CC2927)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff&labelColor=2496ED)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff&labelColor=7B42BC)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff&labelColor=F05032)
+
+### Ferramentas 
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+![Zabbix](https://img.shields.io/badge/-Zabbix-FF0000?style=flat&logoColor=ffffff)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=ffffff)
 
 ### Serviços AWS
 
